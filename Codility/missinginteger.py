@@ -5,10 +5,10 @@ def solution(A):
         if i > min:
             return min
         if i > 0:
-            min = i
+            min = i + 1
     return min
 
 
-a= [2, 3, 7, 6, 8, -1, -10, 15]
+a= [1, 2, 3, 7, 6, 8, -1, -10, 15]
 print("solution for list {}".format(a))
 print("solution: {}".format(solution(a)))
