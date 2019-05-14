@@ -1,1 +1,1 @@
-# ratesbuddy
+# Algorithms in Python and C++
